@@ -1,6 +1,6 @@
-# Datasets for CDS-101: Introduction to Computational and Data Sciences
+# Datasets for CDS 101: Introduction to Computational and Data Sciences
 
-Datasets used in CDS-101 at George Mason University.
+Datasets used in CDS 101 at George Mason University.
 
 ## License
 
