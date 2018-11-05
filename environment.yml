@@ -1,0 +1,21 @@
+---
+name: cds-datasets
+channels:
+  - defaults
+dependencies:
+  - docutils
+  - jinja2
+  - markdown
+  - markupsafe
+  - pandoc=2.2.1
+  - pygments
+  - python-dateutil
+  - python=3.7
+  - pytz
+  - six
+  - unidecode
+  - pip:
+    - ghp-import
+    - pelican
+    - rpy2
+    - typogrify
